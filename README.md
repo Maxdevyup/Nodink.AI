@@ -10,6 +10,7 @@ Nodink started from a simple frustration : what if you could have the studio exp
 That's the idea. Simple interface, full control, and a peer-to-peer GPU network coming when the studio is solid.
 
 ✨ Features
+
 🖥️ Local first
 
 Load and run open LLMs locally with full control over the model, quantization level, and context window. Your hardware, your rules.
